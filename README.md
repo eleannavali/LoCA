@@ -13,7 +13,7 @@
 
 ## ✨ Highlights
 
-| 🥇 Best on | 🥈 Top-2 on | ⚔️ Pairwise win rate | 📈 Effective rank |
+| 🥇 Best on | 🥈 Top-2 on | ⚔️ Pairwise win rate vs. 5 encoders | 📈 Effective rank |
 |:---:|:---:|:---:|:---:|
 | **8 / 17** tasks | **11 / 17** tasks | **68.8%** | **62%** of dims (SatCLIP 35%) |
 
