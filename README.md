@@ -1,7 +1,6 @@
 # 🌍 LoCA: Enabling Multi-Modality in Geospatial Location Encoders
 
-![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)
-![Code](https://img.shields.io/badge/code-coming%20soon-lightgrey.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.32894-b31b1b.svg)](https://arxiv.org/abs/2610.32894)![Code](https://img.shields.io/badge/code-coming%20soon-lightgrey.svg)
 ![Weights](https://img.shields.io/badge/weights-coming%20soon-lightgrey.svg)
 ![Data](https://img.shields.io/badge/data-coming%20soon-lightgrey.svg)
 
@@ -44,11 +43,14 @@ The intrinsic dimension of a location encoder is at most 2, but its covariance r
 ## 📝 Citation
 
 ```bibtex
-@article{koromilas2026loca,
-  title   = {{LoCA}: Enabling Multi-Modality in Geospatial Location Encoders},
-  author  = {Koromilas, Panagiotis and Vali, Eleanna and Antonopoulos, Diogenis and Saka, Eleni and Christofis, Dimitris and Bountos, Nikolaos Ioannis and Klemmer, Konstantin and Papoutsis, Ioannis and Panagakis, Yannis and Nicolaou, Mihalis},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2026}
+@misc{koromilas2026loca,
+      title={LoCA: Enabling Multi-Modality in Geospatial Location Encoders}, 
+      author={Panagiotis Koromilas and Eleanna Vali and Diogenis Antonopoulos and Eleni Saka and Dimitris Christofis and Nikolaos Ioannis Bountos and Konstantin Klemmer and Ioannis Papoutsis and Yannis Panagakis and Mihalis A. Nicolaou},
+      year={2026},
+      eprint={2610.32894},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.32894}, 
 }
 ```
 
